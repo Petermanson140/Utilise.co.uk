@@ -31,7 +31,6 @@ utilise/
 ├── frontend/         # React frontend
 ├── data/             # Datasets and synthetic profiles
 ├── rag_docs/         # UK energy guidance documents
-├── dissertation/     # Dissertation chapters
 └── README.md
 
 ##  3 Research Questions
@@ -43,4 +42,4 @@ utilise/
 Dr. Barbara Villarini
 
 ## Official Submission Date of Utilise
-3rd September 2026
+8th-9th September 2026
