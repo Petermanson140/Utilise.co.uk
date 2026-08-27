@@ -1,5 +1,5 @@
 # Utilise
-### An AI-Driven Personalised Electricity, Gas and Water Bill Savings Advisor for London Households
+### An AI-Driven Personalised Electricity, Gas and Water Bill Savings Advisor and Forecaster for London Households
 
 
 Master of Science in Applied Artificial Intelligence | Peter Kyan Win Manson | Student ID: 21764040 | September 2025 - September 2026
