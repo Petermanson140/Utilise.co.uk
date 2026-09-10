@@ -14,9 +14,9 @@ great british pounds every month and annually.
 ## Technology Stack
 | Layer | Technology |
 |---|---|
-| Frontend | React + Tailwind CSS |
+| Frontend | React + Vite |
 | Backend | FastAPI (Python) |
-| LLM | Groq (llama |
+| LLM | Groq (Openai|
 | RAG | LangChain + ChromaDB |
 | Embeddings | all-MiniLM-L6-v2 |
 | Weather |
@@ -34,12 +34,12 @@ utilise/
 └── README.md
 
 ##  3 Research Questions
-1. Does integrating live weather data improve the accuracy of saving recommendations?
-2. Which household factors are the best predictions for high energy bills?
-3. Can the RAG pipeline achieve RAGAS confidence score of above 0.80?
+1. Does integrating live weather data improve the accuracy of personalised saving recommendations?
+2. Which factors are the best predictions for high energy bills?
+3. Can the RAG pipeline achieve a RAGAS score of above 0.80 for all core evaluation metrics?
 
 ## Supervisor of MSc Utilise Project
 Dr. Barbara Villarini
 
 ## Official Submission Date of Utilise
-8th-9th September 2026
+10th September 2026
